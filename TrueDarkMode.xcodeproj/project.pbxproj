@@ -6,14 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		2F5F25912F39E63D00C33BF1 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2F5F25902F39E63A00C33BF1 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
-		2F5F25822F39E54D00C33BF1 /* DarkMode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DarkMode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F5F25822F39E54D00C33BF1 /* TrueDarkMode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrueDarkMode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F5F25902F39E63A00C33BF1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2F5F25842F39E54D00C33BF1 /* DarkMode */ = {
+		2F5F25842F39E54D00C33BF1 /* TrueDarkMode */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = DarkMode;
+			path = TrueDarkMode;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +37,8 @@
 		2F5F25792F39E54D00C33BF1 = {
 			isa = PBXGroup;
 			children = (
-				2F5F25842F39E54D00C33BF1 /* DarkMode */,
+				2F5F25902F39E63A00C33BF1 /* README.md */,
+				2F5F25842F39E54D00C33BF1 /* TrueDarkMode */,
 				2F5F25832F39E54D00C33BF1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +46,7 @@
 		2F5F25832F39E54D00C33BF1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2F5F25822F39E54D00C33BF1 /* DarkMode.app */,
+				2F5F25822F39E54D00C33BF1 /* TrueDarkMode.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +54,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2F5F25812F39E54D00C33BF1 /* DarkMode */ = {
+		2F5F25812F39E54D00C33BF1 /* TrueDarkMode */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2F5F258D2F39E54F00C33BF1 /* Build configuration list for PBXNativeTarget "DarkMode" */;
+			buildConfigurationList = 2F5F258D2F39E54F00C33BF1 /* Build configuration list for PBXNativeTarget "TrueDarkMode" */;
 			buildPhases = (
 				2F5F257E2F39E54D00C33BF1 /* Sources */,
 				2F5F257F2F39E54D00C33BF1 /* Frameworks */,
@@ -61,13 +67,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2F5F25842F39E54D00C33BF1 /* DarkMode */,
+				2F5F25842F39E54D00C33BF1 /* TrueDarkMode */,
 			);
-			name = DarkMode;
+			name = TrueDarkMode;
 			packageProductDependencies = (
 			);
 			productName = DarkMode;
-			productReference = 2F5F25822F39E54D00C33BF1 /* DarkMode.app */;
+			productReference = 2F5F25822F39E54D00C33BF1 /* TrueDarkMode.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +91,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2F5F257D2F39E54D00C33BF1 /* Build configuration list for PBXProject "DarkMode" */;
+			buildConfigurationList = 2F5F257D2F39E54D00C33BF1 /* Build configuration list for PBXProject "TrueDarkMode" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +105,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2F5F25812F39E54D00C33BF1 /* DarkMode */,
+				2F5F25812F39E54D00C33BF1 /* TrueDarkMode */,
 			);
 		};
 /* End PBXProject section */
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F5F25912F39E63D00C33BF1 /* README.md in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2F5F257D2F39E54D00C33BF1 /* Build configuration list for PBXProject "DarkMode" */ = {
+		2F5F257D2F39E54D00C33BF1 /* Build configuration list for PBXProject "TrueDarkMode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F5F258B2F39E54F00C33BF1 /* Debug */,
@@ -315,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2F5F258D2F39E54F00C33BF1 /* Build configuration list for PBXNativeTarget "DarkMode" */ = {
+		2F5F258D2F39E54F00C33BF1 /* Build configuration list for PBXNativeTarget "TrueDarkMode" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2F5F258E2F39E54F00C33BF1 /* Debug */,
