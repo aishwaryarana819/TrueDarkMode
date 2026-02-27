@@ -14,7 +14,9 @@ TrueDarkMode is a lightweight macOS menu bar utility app designed to take your M
 # 🛠️ How to Use
 #### Install: 
 Download the .dmg file here: https://github.com/aishwaryarana819/TrueDarkMode/releases/download/V1.0/TrueDarkMode_V1.0.dmg
+
 Mount the dmg file.
+
 Move TrueDarkMode.app to your /Applications folder.
 
 #### Authorize:
@@ -36,7 +38,9 @@ On the first usage (toggle), macOS will ask your permission to allow this app to
 
 # 🏗️ The Build Journey
 This was my second macOS project and a consecutive one at that.
+
 This was way simpler & much more fun this time than when I developed my first app (check it out here: https://github.com/aishwaryarana819/FortressMode).
+
 Unlike last time, I have also added Start at Login feature, background image in the dmg file; simple things which make the user experience much better. 
 
 # 🤖 Declaration of AI Usage
