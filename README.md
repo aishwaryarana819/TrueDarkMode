@@ -19,6 +19,7 @@ Move TrueDarkMode.app to your /Applications folder.
 
 #### Authorize:
 On the first run, macOS will protect you from an "Unknown Developer".
+
 <img width="372" height="412" alt="Screenshot 2026-02-27 at 8 14 35 AM" src="https://github.com/user-attachments/assets/5707e235-028d-4f11-bab8-4cef0beb422b" />
 
 Go to System Settings > Privacy & Security, scroll to the bottom, and click "Open Anyway" for TrueDarkMode.
