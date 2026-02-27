@@ -1,5 +1,5 @@
 # Demo for non-apple users who need to vote:
-
+https://github.com/user-attachments/assets/e4700ada-b23c-4bc6-a2c9-aa9abb593b9e
 
 # 🌃 TrueDarkMode
 TrueDarkMode is a lightweight macOS menu bar utility app designed to take your Mac's dark mode to the next level where you have control. 
@@ -34,9 +34,18 @@ You'll be prompted with another dialog. Click "Open Anyway" again and enter your
 From the menu bar app, open the settings panel and customize the app based on your need.
 
 #### Allow Permission:
-On the first usage (toggle), macOS will ask your permission to allow this app to change system appearance. Please allow that for full functionality. 
+**On the first usage (toggle), macOS will ask your permission to allow this app to change system appearance. Please allow that for full functionality.**
+
+**If it doesn't ask for permission automatically and basic dark mode doesn't work, follow this:** 
+
+
+
+https://github.com/user-attachments/assets/c7cf859b-11aa-4139-ad22-d7f680aa4b97
+
+
 
 # 🏗️ The Build Journey
+
 This was my second macOS project and a consecutive one at that.
 
 This was way simpler & much more fun this time than when I developed my first app (check it out here: https://github.com/aishwaryarana819/FortressMode).
